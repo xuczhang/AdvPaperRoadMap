@@ -21,7 +21,9 @@ I would continue adding papers to this roadmap.
 ## 1.3 Generative Adversarial Networks (GAN)
 **[5]** Anonymous Authors. "**Generating Adversarial Examples with Adversarial Networks**." ICLR 2018 UnderReview. [[pdf]](https://openreview.net/pdf?id=HknbyQbC-) **(GAN-based work)** :star::star::star::star:
 
-**[6]** Zhengli Zhao, Dheeru Dua, and Sameer Singh. "**Generating Natural Adversarial Examples**." ICLR 2018 UnderReview. [[pdf]](https://arxiv.org/pdf/1710.11342.pdf) **(Natural image generation)** :star::star::star::star:
+**[6]** Zhengli Zhao, Dheeru Dua, and Sameer Singh. "**Generating Natural Adversarial Examples**." ICLR 2018 UnderReview. [[pdf]](https://arxiv.org/pdf/1710.11342.pdf) **(Natural adversarial image generation)** :star::star::star::star:
+
+**[7]** Weiwei Hu and Ying Tan. "**Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN**." ArXiv 2017. [[pdf]](https://arxiv.org/pdf/1702.05983.pdf) **(GAN-based work)** :star::star::star::star:
 
 ## 1.4 Evolutionary Algorithms
 This part will be finished soon.
