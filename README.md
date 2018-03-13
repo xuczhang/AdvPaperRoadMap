@@ -28,6 +28,10 @@ I would continue adding papers to this roadmap.
 ## 1.4 Evolutionary Algorithms
 This part will be finished soon.
 
+## 1.5 Adversarial Example in NLP
+**[8]** Robin Jia and Percy Liang. "**Adversarial Examples for Evaluating Reading Comprehension Systems**." EMNLP 2017. [[pdf]](https://arxiv.org/pdf/1707.07328.pdf) **(First work of adversarial example in QA)** :star::star::star::star:
+
+
 # 2 Adversarial Attack Defense
 
 This part will be finished soon.
